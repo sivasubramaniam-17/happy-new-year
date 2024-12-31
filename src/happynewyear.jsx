@@ -166,7 +166,7 @@ const FireworksScene = () => {
             animation: "glowAndRotate 3s infinite ease-in-out",
           }}
         >
-          Happy New Year 2025 !
+          Happy New Year 2025 !!
         </h1>
         <h2
           style={{
