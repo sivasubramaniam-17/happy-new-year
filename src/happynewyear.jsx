@@ -177,7 +177,7 @@ const FireworksScene = () => {
             animation: "shimmer 3s infinite ease-in-out",
           }}
         >
-          Matt Engineering Solution
+          Matt Engineering Solutions
         </h2>
       </div>
 
@@ -190,7 +190,7 @@ const FireworksScene = () => {
           top: "70%",
           left: "50%",
           transform: "translate(-50%, -50%)",
-          width: "50px",
+          width: "60px",
           height: "auto",
           animation: "fadeInLeft 2s ease-in-out",
         }}
